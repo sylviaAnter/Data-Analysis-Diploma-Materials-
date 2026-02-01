@@ -1,0 +1,442 @@
+Item,Quantity,Price,Commission
+Printer,10,80,8%
+White Board,18,40,6%
+Office Chair,7,230,8%
+White Board,15,40,3%
+Diary,6,16,1%
+Projector,9,150,2%
+Diary,15,16,1%
+Printer,22,80,11%
+Projector,13,150,2%
+White Board,18,40,6%
+Office Chair,7,230,8%
+White Board,15,40,3%
+Diary,6,16,1%
+Projector,9,150,2%
+Diary,15,16,1%
+Printer,22,80,11%
+Projector,13,150,2%
+Diary,12,16,3%
+White Board,4,40,5%
+Office Chair,19,230,11%
+White Board,4,40,6%
+Diary,6,16,7%
+Office Chair,15,230,11%
+Printer,16,80,4%
+White Board,7,40,10%
+White Board,11,40,5%
+Printer,9,80,6%
+Printer,21,80,4%
+White Board,2,40,3%
+Diary,12,16,3%
+White Board,4,40,5%
+Office Chair,19,230,11%
+White Board,4,40,6%
+Diary,6,16,7%
+Office Chair,15,230,11%
+Printer,16,80,4%
+White Board,7,40,10%
+White Board,11,40,5%
+Printer,9,80,6%
+Printer,21,80,4%
+White Board,2,40,3%
+Diary,17,16,5%
+White Board,18,40,6%
+White Board,9,40,1%
+White Board,7,40,1%
+Office Chair,12,230,6%
+Diary,22,16,4%
+Diary,17,16,5%
+White Board,18,40,6%
+White Board,9,40,1%
+White Board,7,40,1%
+Office Chair,12,230,6%
+Diary,22,16,4%
+Projector,5,150,11%
+Printer,14,80,11%
+Diary,8,16,3%
+Office Chair,6,230,5%
+Diary,7,16,8%
+Printer,16,80,4%
+Projector,17,150,12%
+Diary,7,16,8%
+Projector,5,150,11%
+Printer,14,80,11%
+Diary,8,16,3%
+Office Chair,6,230,5%
+Diary,7,16,8%
+Printer,16,80,4%
+Projector,17,150,12%
+Diary,7,16,8%
+Diary,21,16,9%
+Diary,23,16,11%
+Projector,2,150,2%
+Projector,22,150,7%
+White Board,22,40,1%
+Printer,10,80,11%
+Printer,13,80,5%
+Office Chair,11,230,12%
+Office Chair,9,230,7%
+Office Chair,16,230,11%
+Office Chair,18,230,1%
+Diary,15,16,2%
+White Board,18,40,6%
+White Board,18,40,4%
+Diary,22,16,3%
+Diary,12,16,11%
+Printer,20,80,1%
+Office Chair,10,230,2%
+Office Chair,9,230,3%
+Printer,17,80,3%
+White Board,4,40,9%
+Projector,16,150,3%
+Printer,8,80,2%
+White Board,23,40,6%
+Projector,20,150,10%
+Office Chair,22,230,10%
+Office Chair,6,230,10%
+Printer,10,80,10%
+Office Chair,21,230,5%
+Office Chair,20,230,4%
+Printer,20,80,7%
+Printer,7,80,5%
+Printer,8,80,9%
+Printer,3,80,2%
+Printer,8,80,6%
+Projector,13,150,11%
+Printer,15,80,8%
+Projector,7,150,2%
+White Board,6,40,6%
+Printer,23,80,11%
+Office Chair,18,230,1%
+Printer,21,80,9%
+White Board,13,40,2%
+Printer,23,80,5%
+Projector,15,150,5%
+White Board,5,40,9%
+Diary,10,16,1%
+Office Chair,2,230,9%
+Printer,7,80,2%
+Projector,22,150,5%
+White Board,17,40,2%
+Diary,22,16,6%
+Diary,3,16,3%
+Office Chair,2,230,8%
+Diary,21,16,9%
+Printer,7,80,7%
+Projector,23,150,11%
+Diary,22,16,6%
+Diary,3,16,3%
+Office Chair,2,230,8%
+Diary,21,16,9%
+Printer,7,80,7%
+Projector,23,150,11%
+Projector,11,150,5%
+Printer,16,80,5%
+Office Chair,5,230,10%
+Diary,22,16,1%
+White Board,7,40,12%
+Printer,2,80,4%
+White Board,6,40,7%
+Printer,6,80,1%
+Diary,22,16,1%
+Office Chair,7,230,6%
+Projector,11,150,5%
+Printer,16,80,5%
+Office Chair,5,230,10%
+Diary,22,16,1%
+White Board,7,40,12%
+Printer,2,80,4%
+White Board,6,40,7%
+Printer,6,80,1%
+Diary,22,16,1%
+Office Chair,7,230,6%
+Diary,22,16,3%
+White Board,20,40,5%
+White Board,19,40,10%
+Diary,18,16,5%
+White Board,2,40,2%
+White Board,7,40,7%
+Projector,11,150,5%
+Printer,14,80,11%
+White Board,7,40,4%
+Printer,14,80,5%
+Diary,22,16,3%
+White Board,20,40,5%
+White Board,19,40,10%
+Diary,18,16,5%
+White Board,2,40,2%
+White Board,7,40,7%
+Projector,11,150,5%
+Printer,14,80,11%
+White Board,7,40,4%
+Printer,14,80,5%
+Diary,12,16,11%
+White Board,11,40,5%
+Diary,14,16,1%
+Office Chair,2,230,8%
+Diary,20,16,11%
+Diary,6,16,6%
+Printer,17,80,5%
+White Board,2,40,12%
+Diary,7,16,12%
+Projector,7,150,2%
+Printer,20,80,1%
+Printer,11,80,1%
+Printer,10,80,8%
+Diary,12,16,11%
+White Board,11,40,5%
+Diary,14,16,1%
+Office Chair,2,230,8%
+Diary,20,16,11%
+Diary,6,16,6%
+Printer,17,80,5%
+White Board,2,40,12%
+Diary,7,16,12%
+Projector,7,150,2%
+Printer,20,80,1%
+Printer,11,80,1%
+Printer,10,80,8%
+Printer,5,80,4%
+Printer,4,80,11%
+Diary,3,16,5%
+Printer,9,80,4%
+Printer,16,80,9%
+Printer,5,80,4%
+Printer,4,80,11%
+Diary,3,16,5%
+Printer,9,80,4%
+Printer,16,80,9%
+Diary,7,16,8%
+Projector,16,150,5%
+Diary,10,16,4%
+White Board,4,40,3%
+White Board,15,40,2%
+Printer,6,80,9%
+Projector,20,150,1%
+Diary,7,16,8%
+Printer,2,80,7%
+White Board,23,40,6%
+Diary,12,16,11%
+Office Chair,2,230,9%
+Projector,4,150,6%
+White Board,23,40,7%
+Diary,2,16,4%
+Projector,7,150,5%
+Diary,7,16,8%
+White Board,15,40,6%
+Printer,16,80,5%
+White Board,16,40,11%
+Diary,23,16,1%
+Office Chair,12,230,3%
+Diary,4,16,12%
+Projector,3,150,1%
+Projector,10,150,1%
+Printer,13,80,6%
+Office Chair,15,230,4%
+Projector,23,150,10%
+Projector,15,150,12%
+Projector,20,150,12%
+White Board,13,40,9%
+Diary,11,16,4%
+Projector,20,150,4%
+White Board,18,40,11%
+White Board,2,40,3%
+Diary,15,16,12%
+Diary,9,16,5%
+White Board,7,40,5%
+Projector,4,150,5%
+Office Chair,15,230,5%
+White Board,12,40,10%
+Office Chair,23,230,6%
+Diary,11,16,9%
+Projector,9,150,10%
+Printer,18,80,2%
+White Board,23,40,4%
+Diary,17,16,10%
+Projector,17,150,2%
+Printer,21,80,2%
+White Board,11,40,6%
+White Board,19,40,4%
+White Board,23,40,3%
+Office Chair,14,230,5%
+White Board,18,40,3%
+Projector,2,150,9%
+Office Chair,7,230,5%
+Projector,9,150,2%
+White Board,3,40,3%
+Printer,2,80,8%
+Diary,19,16,2%
+Diary,21,16,2%
+Printer,21,80,5%
+Office Chair,3,230,10%
+White Board,4,40,11%
+Projector,7,150,3%
+Diary,11,16,12%
+Printer,17,80,7%
+Diary,5,16,9%
+Diary,13,16,7%
+Printer,9,80,2%
+Printer,9,80,2%
+Printer,22,80,3%
+Projector,13,150,5%
+Printer,14,80,8%
+Printer,6,80,7%
+Printer,16,80,3%
+Projector,22,150,9%
+Projector,4,150,12%
+Office Chair,7,230,5%
+Projector,20,150,10%
+Office Chair,8,230,5%
+White Board,9,40,6%
+Office Chair,19,230,6%
+White Board,22,40,1%
+White Board,22,40,2%
+Printer,10,80,6%
+White Board,7,40,11%
+Office Chair,7,230,8%
+Diary,18,16,11%
+Office Chair,14,230,12%
+White Board,21,40,3%
+Projector,3,150,3%
+Printer,12,80,4%
+Projector,6,150,3%
+White Board,20,40,1%
+Office Chair,3,230,6%
+Office Chair,3,230,1%
+White Board,20,40,4%
+Printer,16,80,2%
+Projector,8,150,9%
+Office Chair,7,230,1%
+Projector,23,150,11%
+White Board,16,40,9%
+White Board,20,40,10%
+White Board,18,40,8%
+Printer,22,80,9%
+Projector,22,150,2%
+Projector,20,150,9%
+Diary,10,16,8%
+White Board,12,40,2%
+Projector,4,150,10%
+Printer,5,80,9%
+White Board,11,40,4%
+Projector,13,150,8%
+Printer,19,80,2%
+Office Chair,7,230,1%
+Printer,16,80,9%
+Office Chair,7,230,2%
+White Board,5,40,6%
+Projector,9,150,6%
+White Board,20,40,7%
+Diary,20,16,6%
+White Board,5,40,3%
+Printer,7,80,7%
+Diary,22,16,12%
+Diary,11,16,12%
+Office Chair,17,230,12%
+Printer,7,80,2%
+Diary,5,16,11%
+Projector,18,150,12%
+White Board,10,40,3%
+White Board,14,40,11%
+White Board,16,40,9%
+White Board,23,40,6%
+Office Chair,8,230,5%
+Diary,14,16,12%
+Printer,17,80,9%
+Projector,11,150,11%
+White Board,15,40,3%
+Printer,9,80,7%
+Office Chair,22,230,4%
+Office Chair,11,230,10%
+White Board,11,40,12%
+White Board,9,40,6%
+White Board,13,40,9%
+White Board,4,40,12%
+Projector,22,150,5%
+White Board,21,40,1%
+Diary,16,16,3%
+Printer,16,80,7%
+Printer,15,80,12%
+Projector,20,150,3%
+White Board,13,40,6%
+Diary,3,16,6%
+Diary,11,16,4%
+White Board,16,40,9%
+White Board,4,40,6%
+White Board,20,40,1%
+White Board,4,40,10%
+Printer,14,80,6%
+Projector,15,150,2%
+Printer,14,80,10%
+Projector,20,150,4%
+Printer,22,80,10%
+Office Chair,20,230,9%
+Office Chair,12,230,3%
+Printer,21,80,4%
+White Board,15,40,4%
+Printer,16,80,10%
+Office Chair,17,230,11%
+Office Chair,5,230,12%
+Diary,20,16,1%
+Office Chair,5,230,10%
+White Board,8,40,9%
+Diary,7,16,2%
+Projector,15,150,8%
+Office Chair,20,230,11%
+Diary,4,16,9%
+White Board,11,40,9%
+Projector,15,150,5%
+Office Chair,5,230,1%
+Office Chair,14,230,3%
+White Board,23,40,5%
+Printer,22,80,3%
+Office Chair,20,230,6%
+Office Chair,15,230,9%
+Projector,18,150,6%
+Office Chair,3,230,11%
+Projector,11,150,9%
+Office Chair,11,230,2%
+Office Chair,13,230,6%
+Projector,18,150,6%
+Office Chair,3,230,11%
+Projector,11,150,9%
+Office Chair,11,230,2%
+Office Chair,13,230,6%
+Printer,11,80,1%
+Printer,17,80,7%
+Projector,15,150,7%
+Diary,14,16,6%
+Diary,4,16,7%
+Projector,23,150,8%
+Printer,10,80,11%
+Office Chair,7,230,1%
+Office Chair,16,230,7%
+Diary,17,16,8%
+Printer,11,80,1%
+Printer,17,80,7%
+Projector,15,150,7%
+Diary,14,16,6%
+Diary,4,16,7%
+Projector,23,150,8%
+Printer,10,80,11%
+Office Chair,7,230,1%
+Office Chair,16,230,7%
+Diary,17,16,8%
+Printer,6,80,9%
+Projector,22,150,4%
+White Board,20,40,3%
+Projector,16,150,8%
+Printer,5,80,7%
+Projector,6,150,3%
+Printer,6,80,9%
+Projector,22,150,4%
+White Board,20,40,3%
+Projector,16,150,8%
+Printer,5,80,7%
+Projector,6,150,3%
+Printer,9,80,3%
+Printer,8,80,8%
+Office Chair,8,230,1%
+Diary,12,16,4%
+Diary,18,16,4%
