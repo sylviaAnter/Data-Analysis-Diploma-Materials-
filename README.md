@@ -1,8 +1,7 @@
 # Data-Analysis-Diploma-Materials
 
 youtube Videos 
-https://youtu.be/P11imCbWscY?si=D5JukdNXBKPOJ1_F
-
+https://www.youtube.com/watch?v=P11imCbWscY&list=PLwortQlzNB45bWSB2P0yBurhA_kwQA69j
 
 
 
